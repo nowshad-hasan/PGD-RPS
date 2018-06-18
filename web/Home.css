@@ -1,0 +1,14 @@
+h1{
+text-align:center;
+color:green;
+}
+body{
+background-image:url("BG.jpg");
+repeat:no-repeat;
+text-align:center;
+}
+ ul{
+display: inline-block;
+    list-style-type: none;
+}
+
